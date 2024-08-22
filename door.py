@@ -133,3 +133,6 @@ if __name__ == "__main__":
     print("-- Türe jetzt öffnen")
     the_door.open_the_door()
     the_door.test()
+
+
+#Hallo
